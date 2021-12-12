@@ -6,7 +6,7 @@ import { env } from './configs';
 import { log } from './utils';
 
 const title = String.raw`
-  a          a
+              a          a
              aaa        aaa
             aaaaaaaaaaaaaaaa
            aaaaaaaaaaaaaaaaaa
